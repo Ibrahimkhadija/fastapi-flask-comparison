@@ -1,21 +1,22 @@
-<<<<<<< HEAD
 # FastAPI vs Flask Comparison Project
 
 ## Project Overview
 This project implements identical Joke APIs in both FastAPI and Flask frameworks for educational comparison.
 
+## Features
+- ✅ Identical REST APIs in both frameworks
+- ✅ Complete test coverage (pytest)
+- ✅ Performance comparison
+- ✅ Automatic API documentation (FastAPI)
+- ✅ Virtual environment isolation
+
 ## Quick Start
 
-### 1. Install Dependencies
+### Installation
 ```bash
-# FastAPI
-cd fastapi_app
-pip install -r requirements.txt
+# Clone repository
+git clone https://github.com/Ibrahimkhadija/fastapi-flask-comparison.git
+cd fastapi-flask-comparison
 
-# Flask
-cd ../flask_app
+# Install dependencies
 pip install -r requirements.txt
-=======
-# fastapi-flask-comparison
-Comparison of FastAPI and Flask frameworks with Joke API implementation
->>>>>>> origin/main
